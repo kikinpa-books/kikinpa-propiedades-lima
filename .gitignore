@@ -10,6 +10,8 @@ venv/
 .tmp/
 _page_dump*.html
 _detail_dump*.html
+_dump_*.html
+propiedades.db
 
 # Playwright
 playwright-report/
