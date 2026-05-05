@@ -1,17 +1,18 @@
-name: Scrape Propiedades BBVA
+name: Scrape Propiedades Lima
 
 on:
   schedule:
-    # 08:00 Lima time (PET = UTC-5) → 13:00 UTC
+    # 08:00 Lima time (PET = UTC-5) -> 13:00 UTC
     - cron: '0 13 * * *'
-  workflow_dispatch:   # permite correr manualmente desde GitHub Actions
+  workflow_dispatch:   # correr manualmente desde GitHub Actions
 
 permissions:
-  contents: write      # necesario para hacer commit de los datos actualizados
+  contents: write
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
 
     steps:
       - name: Checkout repo
@@ -29,14 +30,15 @@ jobs:
       - name: Install Playwright browsers
         run: playwright install chromium --with-deps
 
-      - name: Run scraper
-        run: python tools/bbva_scraper.py
+      - name: Run all scrapers
+        run: python tools/run_all.py
+        env:
+          REMAJU_MAX: "50"   # limitar REMAJU a 50 items para no exceder el timeout
 
       - name: Commit and push updated data
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add docs/data/propiedades.json remates_bbva.csv
-          # Solo hace commit si hay cambios reales
           git diff --cached --quiet || git commit -m "chore: actualizar datos $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
