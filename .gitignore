@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+
+# Temporales del scraper
+.tmp/
+_page_dump*.html
+_detail_dump*.html
+
+# Playwright
+playwright-report/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Credenciales Google
+credentials.json
+token.json

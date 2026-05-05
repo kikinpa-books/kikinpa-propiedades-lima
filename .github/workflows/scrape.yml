@@ -1,0 +1,42 @@
+name: Scrape Propiedades BBVA
+
+on:
+  schedule:
+    # 08:00 Lima time (PET = UTC-5) → 13:00 UTC
+    - cron: '0 13 * * *'
+  workflow_dispatch:   # permite correr manualmente desde GitHub Actions
+
+permissions:
+  contents: write      # necesario para hacer commit de los datos actualizados
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Python dependencies
+        run: pip install playwright beautifulsoup4 lxml
+
+      - name: Install Playwright browsers
+        run: playwright install chromium --with-deps
+
+      - name: Run scraper
+        run: python tools/bbva_scraper.py
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/propiedades.json remates_bbva.csv
+          # Solo hace commit si hay cambios reales
+          git diff --cached --quiet || git commit -m "chore: actualizar datos $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
