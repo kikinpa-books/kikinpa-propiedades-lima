@@ -43,6 +43,19 @@ BanBif,Departamento 502 Huaquillay,"US$ 42,000",USD,42000.0,Comas,Calle La Mar N
 BanBif,Casa Chirichigno,"US$ 450,000",USD,450000.0,Piura,Av. Chirichigno N° 396 - Urbanización El Chipe - Piura,668.28,https://banbif.com.pe/bienesadjudicados,No especificado,No especificado,,False
 BanBif,Lote Condominio Via Valle CHINCHA,"US$ 80,500",USD,80500.0,Alto Laran,"Calle Via Valle Lote 15, Condominio Via Valle, Alto Laran CHINCHa",617.93,https://banbif.com.pe/bienesadjudicados,No especificado,No especificado,,False
 BanBif,Casa/local Circunvalación PIURA,"US$ 95,000",USD,95000.0,Piura,Av. Circunvalación N° 1213 Urb. San José PIURA,148.48,https://banbif.com.pe/bienesadjudicados,No especificado,No especificado,,False
+REMAJU,REMATE SIMPLE - Sabandia,,PEN,,Sabandia,Sabandia,,https://remaju.pj.gob.pe/remaju/?convocatoria=37653&remate=23800,No especificado,No especificado,2026-06-01T00:00:00,False
+REMAJU,REMATE SIMPLE - San Luis,,PEN,,San Luis,San Luis,,https://remaju.pj.gob.pe/remaju/?convocatoria=37652&remate=23799,No especificado,No especificado,2026-06-01T00:00:00,False
+REMAJU,REMATE SIMPLE - Monsefu,,PEN,,Monsefu,Monsefu,,https://remaju.pj.gob.pe/remaju/?convocatoria=37651&remate=23796,No especificado,No especificado,2026-06-01T00:00:00,False
+REMAJU,REMATE SIMPLE - Cerro Colorado,,PEN,,Cerro Colorado,Cerro Colorado,,https://remaju.pj.gob.pe/remaju/?convocatoria=37650&remate=23793,No especificado,No especificado,2026-06-01T00:00:00,False
+REMAJU,REMATE SIMPLE - San Martin De Porres,,PEN,,San Martin De Porres,San Martin De Porres,,https://remaju.pj.gob.pe/remaju/?convocatoria=37649&remate=23792,No especificado,No especificado,2026-06-01T00:00:00,False
+REMAJU,REMATE SIMPLE - San Martin De Porres,,PEN,,San Martin De Porres,San Martin De Porres,,https://remaju.pj.gob.pe/remaju/?convocatoria=37648&remate=23791,No especificado,No especificado,2026-06-01T00:00:00,False
+REMAJU,REMATE SIMPLE - Chachapoyas,,PEN,,Chachapoyas,Chachapoyas,,https://remaju.pj.gob.pe/remaju/?convocatoria=37647&remate=23790,No especificado,No especificado,2026-06-01T00:00:00,False
+REMAJU,REMATE SIMPLE - Jose Luis Bustamante Y Rivero,,PEN,,Jose Luis Bustamante Y Rivero,Jose Luis Bustamante Y Rivero,,https://remaju.pj.gob.pe/remaju/?convocatoria=37646&remate=23789,No especificado,No especificado,2026-05-31T00:00:00,False
+REMAJU,REMATE SIMPLE - Jose Luis Bustamante Y Rivero,,PEN,,Jose Luis Bustamante Y Rivero,Jose Luis Bustamante Y Rivero,,https://remaju.pj.gob.pe/remaju/?convocatoria=37645&remate=23788,No especificado,No especificado,2026-05-31T00:00:00,False
+REMAJU,REMATE SIMPLE - Sullana,,PEN,,Sullana,Sullana,,https://remaju.pj.gob.pe/remaju/?convocatoria=37644&remate=23787,No especificado,No especificado,2026-05-31T00:00:00,False
+REMAJU,REMATE SIMPLE - Santiago De Surco,,PEN,,Santiago De Surco,Santiago De Surco,,https://remaju.pj.gob.pe/remaju/?convocatoria=37562&remate=23786,No especificado,No especificado,2026-05-31T00:00:00,False
+REMAJU,REMATE SIMPLE - Callao,,PEN,,Callao,Callao,,https://remaju.pj.gob.pe/remaju/?convocatoria=37561&remate=23785,No especificado,No especificado,2026-05-31T00:00:00,False
+REMAJU,REMATE SIMPLE - Ventanilla,,PEN,,Ventanilla,Ventanilla,,https://remaju.pj.gob.pe/remaju/?convocatoria=37560&remate=23784,No especificado,No especificado,2026-05-31T00:00:00,False
 REMAJU,REMATE SIMPLE - San Jeronimo,,PEN,,San Jeronimo,San Jeronimo,,https://remaju.pj.gob.pe/remaju/?convocatoria=37559&remate=23783,No especificado,No especificado,2026-05-31T00:00:00,False
 REMAJU,REMATE SIMPLE - San Jeronimo,,PEN,,San Jeronimo,San Jeronimo,,https://remaju.pj.gob.pe/remaju/?convocatoria=37558&remate=23781,No especificado,No especificado,2026-05-31T00:00:00,False
 REMAJU,REMATE SIMPLE - San Jeronimo,,PEN,,San Jeronimo,San Jeronimo,,https://remaju.pj.gob.pe/remaju/?convocatoria=37557&remate=23779,No especificado,No especificado,2026-05-31T00:00:00,False
@@ -80,16 +93,3 @@ REMAJU,REMATE SIMPLE - Subtanjalla,,PEN,,Subtanjalla,Subtanjalla,,https://remaju
 REMAJU,REMATE SIMPLE - San Martin,,PEN,,San Martin,San Martin,,https://remaju.pj.gob.pe/remaju/?convocatoria=37496&remate=23707,No especificado,No especificado,2026-05-30T00:00:00,False
 REMAJU,REMATE SIMPLE - Comas,,PEN,,Comas,Comas,,https://remaju.pj.gob.pe/remaju/?convocatoria=37495&remate=23706,No especificado,No especificado,2026-05-30T00:00:00,False
 REMAJU,REMATE SIMPLE - El Porvenir,,PEN,,El Porvenir,El Porvenir,,https://remaju.pj.gob.pe/remaju/?convocatoria=37494&remate=23705,No especificado,No especificado,2026-05-29T00:00:00,False
-REMAJU,REMATE SIMPLE - Surquillo,,PEN,,Surquillo,Surquillo,,https://remaju.pj.gob.pe/remaju/?convocatoria=37492&remate=23700,No especificado,No especificado,2026-05-29T00:00:00,False
-REMAJU,REMATE SIMPLE - Iquitos,,PEN,,Iquitos,Iquitos,,https://remaju.pj.gob.pe/remaju/?convocatoria=37491&remate=23699,No especificado,No especificado,2026-05-29T00:00:00,False
-REMAJU,REMATE SIMPLE - Lima,,PEN,,Lima,Lima,,https://remaju.pj.gob.pe/remaju/?convocatoria=37490&remate=23698,No especificado,No especificado,2026-05-29T00:00:00,False
-REMAJU,REMATE SIMPLE - Iquitos,,PEN,,Iquitos,Iquitos,,https://remaju.pj.gob.pe/remaju/?convocatoria=37489&remate=23697,No especificado,No especificado,2026-05-29T00:00:00,False
-REMAJU,REMATE SIMPLE - Chiclayo,,PEN,,Chiclayo,Chiclayo,,https://remaju.pj.gob.pe/remaju/?convocatoria=37488&remate=23696,No especificado,No especificado,2026-05-29T00:00:00,False
-REMAJU,REMATE SIMPLE - Yura,,PEN,,Yura,Yura,,https://remaju.pj.gob.pe/remaju/?convocatoria=37487&remate=23695,No especificado,No especificado,2026-05-29T00:00:00,False
-REMAJU,REMATE SIMPLE - Santiago De Surco,,PEN,,Santiago De Surco,Santiago De Surco,,https://remaju.pj.gob.pe/remaju/?convocatoria=37486&remate=23694,No especificado,No especificado,2026-05-29T00:00:00,False
-REMAJU,REMATE SIMPLE - Independencia,,PEN,,Independencia,Independencia,,https://remaju.pj.gob.pe/remaju/?convocatoria=37485&remate=23693,No especificado,No especificado,2026-05-29T00:00:00,False
-REMAJU,REMATE SIMPLE - Santiago De Surco,,PEN,,Santiago De Surco,Santiago De Surco,,https://remaju.pj.gob.pe/remaju/?convocatoria=37484&remate=23692,No especificado,No especificado,2026-05-29T00:00:00,False
-REMAJU,REMATE SIMPLE - Lima,,PEN,,Lima,Lima,,https://remaju.pj.gob.pe/remaju/?convocatoria=37483&remate=23691,No especificado,No especificado,2026-05-29T00:00:00,False
-REMAJU,REMATE SIMPLE - Huasahuasi,,PEN,,Huasahuasi,Huasahuasi,,https://remaju.pj.gob.pe/remaju/?convocatoria=37482&remate=23690,No especificado,No especificado,2026-05-29T00:00:00,False
-REMAJU,REMATE SIMPLE - Los Olivos,,PEN,,Los Olivos,Los Olivos,,https://remaju.pj.gob.pe/remaju/?convocatoria=37481&remate=23689,No especificado,No especificado,2026-05-29T00:00:00,False
-REMAJU,REMATE SIMPLE - Asia,,PEN,,Asia,Asia,,https://remaju.pj.gob.pe/remaju/?convocatoria=37479&remate=23688,No especificado,No especificado,2026-05-29T00:00:00,False
