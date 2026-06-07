@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-06-06T14:30:01Z",
+  "ultima_actualizacion": "2026-06-07T14:52:39Z",
   "total": 94,
   "propiedades": [
     {
@@ -660,6 +660,21 @@
       "estado_inmueble": "No especificado",
       "partida_registral": "No especificado",
       "fecha_remate": null,
+      "es_oportunidad": false
+    },
+    {
+      "fuente_origen": "REMAJU",
+      "titulo": "REMATE SIMPLE - Yurimaguas",
+      "precio_original": "",
+      "moneda": "PEN",
+      "precio_usd": null,
+      "distrito": "Yurimaguas",
+      "direccion": "Yurimaguas",
+      "medidas_m2": null,
+      "url_detalle": "https://remaju.pj.gob.pe/remaju/?convocatoria=38154&remate=24095",
+      "estado_inmueble": "No especificado",
+      "partida_registral": "No especificado",
+      "fecha_remate": "2026-06-16T00:00:00",
       "es_oportunidad": false
     },
     {
@@ -1392,21 +1407,6 @@
       "direccion": "Paucartambo",
       "medidas_m2": null,
       "url_detalle": "https://remaju.pj.gob.pe/remaju/?convocatoria=37999&remate=24007",
-      "estado_inmueble": "No especificado",
-      "partida_registral": "No especificado",
-      "fecha_remate": "2026-06-13T00:00:00",
-      "es_oportunidad": false
-    },
-    {
-      "fuente_origen": "REMAJU",
-      "titulo": "REMATE SIMPLE - Callao",
-      "precio_original": "",
-      "moneda": "PEN",
-      "precio_usd": null,
-      "distrito": "Callao",
-      "direccion": "Callao",
-      "medidas_m2": null,
-      "url_detalle": "https://remaju.pj.gob.pe/remaju/?convocatoria=37998&remate=24006",
       "estado_inmueble": "No especificado",
       "partida_registral": "No especificado",
       "fecha_remate": "2026-06-13T00:00:00",
