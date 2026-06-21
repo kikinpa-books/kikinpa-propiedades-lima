@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-06-20T15:05:45Z",
+  "ultima_actualizacion": "2026-06-21T15:13:24Z",
   "total": 94,
   "propiedades": [
     {
@@ -117,21 +117,6 @@
       "direccion": "Calle 10, Monterrico Norte, San Borja, Lima, Lima Metropolitana, Lima, 15023, Perú",
       "medidas_m2": null,
       "url_detalle": "https://propiedadesenremate.pe/propiedad/bc-1022-1ab/",
-      "estado_inmueble": "No especificado",
-      "partida_registral": "No especificado",
-      "fecha_remate": null,
-      "es_oportunidad": false
-    },
-    {
-      "fuente_origen": "BBVA",
-      "titulo": "Se Vende Casa en Mariscal Caceres Grupo Residencial L – San Juan de Lurigancho_IC-1084-1_01316",
-      "precio_original": "",
-      "moneda": "",
-      "precio_usd": null,
-      "distrito": "Lima",
-      "direccion": "Jirón Antonio Miro Quesada, San Juan de Lurigancho, Lima, Lima Metropolitana, Lima, 15423, Perú",
-      "medidas_m2": null,
-      "url_detalle": "https://propiedadesenremate.pe/propiedad/ic-1084-1/",
       "estado_inmueble": "No especificado",
       "partida_registral": "No especificado",
       "fecha_remate": null,
@@ -478,6 +463,21 @@
       "medidas_m2": null,
       "url_detalle": "https://propiedadesenremate.pe/propiedad/bc-1003-3/",
       "estado_inmueble": "No especificado",
+      "partida_registral": "No especificado",
+      "fecha_remate": null,
+      "es_oportunidad": false
+    },
+    {
+      "fuente_origen": "BBVA",
+      "titulo": "Venta – Local Comercial – Jirón Cusco 626-640, Cercado de Lima, Lima / IC-1185-1 – 01245",
+      "precio_original": "S/290,000",
+      "moneda": "PEN",
+      "precio_usd": 77333.33,
+      "distrito": "Jirón Cusco",
+      "direccion": "Mirey Import, 640, Jirón Cusco, Urbanización Barrios Altos, Lima, Lima Metropolitana, Lima, 15001, Perú",
+      "medidas_m2": null,
+      "url_detalle": "https://propiedadesenremate.pe/propiedad/venta-local-comercial-jiron-cusco-626-640-cercado-de-lima-lima-ic-1185-1-01245/",
+      "estado_inmueble": "Desocupado",
       "partida_registral": "No especificado",
       "fecha_remate": null,
       "es_oportunidad": false
