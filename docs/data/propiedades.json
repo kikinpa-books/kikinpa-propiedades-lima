@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-06-29T16:38:22Z",
+  "ultima_actualizacion": "2026-06-30T15:28:15Z",
   "total": 94,
   "propiedades": [
     {
@@ -660,6 +660,36 @@
       "estado_inmueble": "No especificado",
       "partida_registral": "No especificado",
       "fecha_remate": null,
+      "es_oportunidad": false
+    },
+    {
+      "fuente_origen": "REMAJU",
+      "titulo": "REMATE SIMPLE - Lima",
+      "precio_original": "",
+      "moneda": "PEN",
+      "precio_usd": null,
+      "distrito": "Lima",
+      "direccion": "Lima",
+      "medidas_m2": null,
+      "url_detalle": "https://remaju.pj.gob.pe/remaju/?convocatoria=38727&remate=24362",
+      "estado_inmueble": "No especificado",
+      "partida_registral": "No especificado",
+      "fecha_remate": "2026-07-10T00:00:00",
+      "es_oportunidad": false
+    },
+    {
+      "fuente_origen": "REMAJU",
+      "titulo": "REMATE SIMPLE - La Esperanza",
+      "precio_original": "",
+      "moneda": "PEN",
+      "precio_usd": null,
+      "distrito": "La Esperanza",
+      "direccion": "La Esperanza",
+      "medidas_m2": null,
+      "url_detalle": "https://remaju.pj.gob.pe/remaju/?convocatoria=38726&remate=24361",
+      "estado_inmueble": "No especificado",
+      "partida_registral": "No especificado",
+      "fecha_remate": "2026-07-10T00:00:00",
       "es_oportunidad": false
     },
     {
@@ -1377,36 +1407,6 @@
       "direccion": "Santiago De Surco",
       "medidas_m2": null,
       "url_detalle": "https://remaju.pj.gob.pe/remaju/?convocatoria=38571&remate=24308",
-      "estado_inmueble": "No especificado",
-      "partida_registral": "No especificado",
-      "fecha_remate": "2026-07-02T00:00:00",
-      "es_oportunidad": false
-    },
-    {
-      "fuente_origen": "REMAJU",
-      "titulo": "REMATE SIMPLE - Santiago De Surco",
-      "precio_original": "",
-      "moneda": "PEN",
-      "precio_usd": null,
-      "distrito": "Santiago De Surco",
-      "direccion": "Santiago De Surco",
-      "medidas_m2": null,
-      "url_detalle": "https://remaju.pj.gob.pe/remaju/?convocatoria=38570&remate=24307",
-      "estado_inmueble": "No especificado",
-      "partida_registral": "No especificado",
-      "fecha_remate": "2026-07-02T00:00:00",
-      "es_oportunidad": false
-    },
-    {
-      "fuente_origen": "REMAJU",
-      "titulo": "REMATE SIMPLE - Santiago De Surco",
-      "precio_original": "",
-      "moneda": "PEN",
-      "precio_usd": null,
-      "distrito": "Santiago De Surco",
-      "direccion": "Santiago De Surco",
-      "medidas_m2": null,
-      "url_detalle": "https://remaju.pj.gob.pe/remaju/?convocatoria=38569&remate=24306",
       "estado_inmueble": "No especificado",
       "partida_registral": "No especificado",
       "fecha_remate": "2026-07-02T00:00:00",
