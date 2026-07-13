@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-07-12T14:26:16Z",
+  "ultima_actualizacion": "2026-07-13T15:41:45Z",
   "total": 62,
   "propiedades": [
     {
@@ -180,6 +180,36 @@
       "estado_inmueble": "No especificado",
       "partida_registral": "No especificado",
       "fecha_remate": null,
+      "es_oportunidad": false
+    },
+    {
+      "fuente_origen": "REMAJU",
+      "titulo": "REMATE SIMPLE - Ocoqa",
+      "precio_original": "",
+      "moneda": "PEN",
+      "precio_usd": null,
+      "distrito": "Ocoqa",
+      "direccion": "Ocoqa",
+      "medidas_m2": null,
+      "url_detalle": "https://remaju.pj.gob.pe/remaju/?convocatoria=39076&remate=24525",
+      "estado_inmueble": "No especificado",
+      "partida_registral": "No especificado",
+      "fecha_remate": "2026-07-23T00:00:00",
+      "es_oportunidad": false
+    },
+    {
+      "fuente_origen": "REMAJU",
+      "titulo": "REMATE SIMPLE - La Victoria",
+      "precio_original": "",
+      "moneda": "PEN",
+      "precio_usd": null,
+      "distrito": "La Victoria",
+      "direccion": "La Victoria",
+      "medidas_m2": null,
+      "url_detalle": "https://remaju.pj.gob.pe/remaju/?convocatoria=39075&remate=24524",
+      "estado_inmueble": "No especificado",
+      "partida_registral": "No especificado",
+      "fecha_remate": "2026-07-23T00:00:00",
       "es_oportunidad": false
     },
     {
@@ -897,36 +927,6 @@
       "direccion": "Lima",
       "medidas_m2": null,
       "url_detalle": "https://remaju.pj.gob.pe/remaju/?convocatoria=38938&remate=24475",
-      "estado_inmueble": "No especificado",
-      "partida_registral": "No especificado",
-      "fecha_remate": "2026-07-18T00:00:00",
-      "es_oportunidad": false
-    },
-    {
-      "fuente_origen": "REMAJU",
-      "titulo": "REMATE SIMPLE - El Tambo",
-      "precio_original": "",
-      "moneda": "PEN",
-      "precio_usd": null,
-      "distrito": "El Tambo",
-      "direccion": "El Tambo",
-      "medidas_m2": null,
-      "url_detalle": "https://remaju.pj.gob.pe/remaju/?convocatoria=38937&remate=24474",
-      "estado_inmueble": "No especificado",
-      "partida_registral": "No especificado",
-      "fecha_remate": "2026-07-18T00:00:00",
-      "es_oportunidad": false
-    },
-    {
-      "fuente_origen": "REMAJU",
-      "titulo": "REMATE SIMPLE - Lima",
-      "precio_original": "",
-      "moneda": "PEN",
-      "precio_usd": null,
-      "distrito": "Lima",
-      "direccion": "Lima",
-      "medidas_m2": null,
-      "url_detalle": "https://remaju.pj.gob.pe/remaju/?convocatoria=38935&remate=24472",
       "estado_inmueble": "No especificado",
       "partida_registral": "No especificado",
       "fecha_remate": "2026-07-18T00:00:00",
