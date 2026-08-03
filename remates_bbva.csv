@@ -40,6 +40,7 @@ BanBif,Piura - Piura,"$450,000.00",USD,450000.0,Piura,No especificado,,https://b
 BanBif,Ica - Alto Laran,"$80,500.00",USD,80500.0,Alto Laran,No especificado,,https://banbif.com.pe/bienesadjudicados,No especificado,No especificado,,False
 BanBif,Piura - Ignacio Escudero,"$220,000.00",USD,220000.0,Ignacio Escudero,No especificado,,https://banbif.com.pe/bienesadjudicados,No especificado,No especificado,,False
 BanBif,Piura - Pariñas,"$300,000.00",USD,300000.0,Pariñas,No especificado,,https://banbif.com.pe/bienesadjudicados,No especificado,No especificado,,False
+REMAJU,REMATE SIMPLE - Alto Selva Alegre,,PEN,,Alto Selva Alegre,Alto Selva Alegre,,https://remaju.pj.gob.pe/remaju/?convocatoria=39385&remate=24676,No especificado,No especificado,2026-08-13T00:00:00,False
 REMAJU,REMATE SIMPLE - Bellavista,,PEN,,Bellavista,Bellavista,,https://remaju.pj.gob.pe/remaju/?convocatoria=39373&remate=24675,No especificado,No especificado,2026-08-10T00:00:00,False
 REMAJU,REMATE SIMPLE - Chaupimarca,,PEN,,Chaupimarca,Chaupimarca,,https://remaju.pj.gob.pe/remaju/?convocatoria=39371&remate=24674,No especificado,No especificado,2026-08-10T00:00:00,False
 REMAJU,REMATE SIMPLE - Hualhuas,,PEN,,Hualhuas,Hualhuas,,https://remaju.pj.gob.pe/remaju/?convocatoria=39370&remate=24673,No especificado,No especificado,2026-08-10T00:00:00,False
@@ -74,19 +75,18 @@ REMAJU,REMATE SIMPLE - Yarinacocha,,PEN,,Yarinacocha,Yarinacocha,,https://remaju
 REMAJU,REMATE SIMPLE - Ramon Castilla,,PEN,,Ramon Castilla,Ramon Castilla,,https://remaju.pj.gob.pe/remaju/?convocatoria=39332&remate=24643,No especificado,No especificado,2026-08-03T00:00:00,False
 REMAJU,REMATE SIMPLE - Iquitos,,PEN,,Iquitos,Iquitos,,https://remaju.pj.gob.pe/remaju/?convocatoria=39331&remate=24642,No especificado,No especificado,2026-08-03T00:00:00,False
 REMAJU,REMATE SIMPLE - Iquitos,,PEN,,Iquitos,Iquitos,,https://remaju.pj.gob.pe/remaju/?convocatoria=39330&remate=24641,No especificado,No especificado,2026-08-03T00:00:00,False
-REMAJU,REMATE SIMPLE - Puno,,PEN,,Puno,Puno,,https://remaju.pj.gob.pe/remaju/?convocatoria=39262&remate=24634,No especificado,No especificado,2026-08-01T00:00:00,False
-REMAJU,REMATE SIMPLE - Piura,,PEN,,Piura,Piura,,https://remaju.pj.gob.pe/remaju/?convocatoria=39261&remate=24633,No especificado,No especificado,2026-08-01T00:00:00,False
-REMAJU,REMATE SIMPLE - La Victoria,,PEN,,La Victoria,La Victoria,,https://remaju.pj.gob.pe/remaju/?convocatoria=39260&remate=24632,No especificado,No especificado,2026-08-01T00:00:00,False
-REMAJU,REMATE SIMPLE - San Vicente De Cañete,,PEN,,San Vicente De Cañete,San Vicente De Cañete,,https://remaju.pj.gob.pe/remaju/?convocatoria=39259&remate=24631,No especificado,No especificado,2026-07-31T00:00:00,False
-REMAJU,REMATE SIMPLE - Requena,,PEN,,Requena,Requena,,https://remaju.pj.gob.pe/remaju/?convocatoria=39258&remate=24630,No especificado,No especificado,2026-07-31T00:00:00,False
-REMAJU,REMATE SIMPLE - Mollendo,,PEN,,Mollendo,Mollendo,,https://remaju.pj.gob.pe/remaju/?convocatoria=39257&remate=24629,No especificado,No especificado,2026-07-31T00:00:00,False
-REMAJU,REMATE SIMPLE - Satipo,,PEN,,Satipo,Satipo,,https://remaju.pj.gob.pe/remaju/?convocatoria=39255&remate=24628,No especificado,No especificado,2026-07-31T00:00:00,False
-REMAJU,REMATE SIMPLE - Tacna,,PEN,,Tacna,Tacna,,https://remaju.pj.gob.pe/remaju/?convocatoria=39254&remate=24627,No especificado,No especificado,2026-07-31T00:00:00,False
-REMAJU,REMATE SIMPLE - Camana,,PEN,,Camana,Camana,,https://remaju.pj.gob.pe/remaju/?convocatoria=39253&remate=24626,No especificado,No especificado,2026-07-31T00:00:00,False
-REMAJU,REMATE SIMPLE - Santiago,,PEN,,Santiago,Santiago,,https://remaju.pj.gob.pe/remaju/?convocatoria=39252&remate=24625,No especificado,No especificado,2026-07-31T00:00:00,False
-REMAJU,REMATE SIMPLE - Requena,,PEN,,Requena,Requena,,https://remaju.pj.gob.pe/remaju/?convocatoria=39251&remate=24624,No especificado,No especificado,2026-07-31T00:00:00,False
-REMAJU,REMATE SIMPLE - Miraflores,,PEN,,Miraflores,Miraflores,,https://remaju.pj.gob.pe/remaju/?convocatoria=39250&remate=24623,No especificado,No especificado,2026-07-31T00:00:00,False
-REMAJU,REMATE SIMPLE - Carabayllo,,PEN,,Carabayllo,Carabayllo,,https://remaju.pj.gob.pe/remaju/?convocatoria=39249&remate=24622,No especificado,No especificado,2026-07-31T00:00:00,False
-REMAJU,REMATE SIMPLE - Chorrillos,,PEN,,Chorrillos,Chorrillos,,https://remaju.pj.gob.pe/remaju/?convocatoria=39248&remate=24621,No especificado,No especificado,2026-07-31T00:00:00,False
-REMAJU,REMATE SIMPLE - Villa El Salvador,,PEN,,Villa El Salvador,Villa El Salvador,,https://remaju.pj.gob.pe/remaju/?convocatoria=39247&remate=24620,No especificado,No especificado,2026-07-31T00:00:00,False
-REMAJU,REMATE SIMPLE - Magdalena Del Mar,,PEN,,Magdalena Del Mar,Magdalena Del Mar,,https://remaju.pj.gob.pe/remaju/?convocatoria=39246&remate=24619,No especificado,No especificado,2026-07-31T00:00:00,False
+REMAJU,REMATE SIMPLE - Huasahuasi,,PEN,,Huasahuasi,Huasahuasi,,https://remaju.pj.gob.pe/remaju/?convocatoria=39375&remate=24537,No especificado,No especificado,2026-08-11T00:00:00,False
+REMAJU,REMATE SIMPLE - Amarilis,,PEN,,Amarilis,Amarilis,,https://remaju.pj.gob.pe/remaju/?convocatoria=39374&remate=24536,No especificado,No especificado,2026-08-11T00:00:00,False
+REMAJU,REMATE SIMPLE - San Martin De Porres,,PEN,,San Martin De Porres,San Martin De Porres,,https://remaju.pj.gob.pe/remaju/?convocatoria=39378&remate=24535,No especificado,No especificado,2026-08-11T00:00:00,False
+REMAJU,REMATE SIMPLE - San Martin De Porres,,PEN,,San Martin De Porres,San Martin De Porres,,https://remaju.pj.gob.pe/remaju/?convocatoria=39380&remate=24534,No especificado,No especificado,2026-08-11T00:00:00,False
+REMAJU,REMATE SIMPLE - San Martin De Porres,,PEN,,San Martin De Porres,San Martin De Porres,,https://remaju.pj.gob.pe/remaju/?convocatoria=39377&remate=24533,No especificado,No especificado,2026-08-11T00:00:00,False
+REMAJU,REMATE SIMPLE - San Martin De Porres,,PEN,,San Martin De Porres,San Martin De Porres,,https://remaju.pj.gob.pe/remaju/?convocatoria=39376&remate=24530,No especificado,No especificado,2026-08-11T00:00:00,False
+REMAJU,REMATE SIMPLE - La Union,,PEN,,La Union,La Union,,https://remaju.pj.gob.pe/remaju/?convocatoria=39384&remate=24529,No especificado,No especificado,2026-08-11T00:00:00,False
+REMAJU,REMATE SIMPLE - San Martin De Porres,,PEN,,San Martin De Porres,San Martin De Porres,,https://remaju.pj.gob.pe/remaju/?convocatoria=39383&remate=24528,No especificado,No especificado,2026-08-11T00:00:00,False
+REMAJU,REMATE SIMPLE - Yurimaguas,,PEN,,Yurimaguas,Yurimaguas,,https://remaju.pj.gob.pe/remaju/?convocatoria=39379&remate=24527,No especificado,No especificado,2026-08-11T00:00:00,False
+REMAJU,REMATE SIMPLE - Yurimaguas,,PEN,,Yurimaguas,Yurimaguas,,https://remaju.pj.gob.pe/remaju/?convocatoria=39382&remate=24526,No especificado,No especificado,2026-08-11T00:00:00,False
+REMAJU,REMATE SIMPLE - La Victoria,,PEN,,La Victoria,La Victoria,,https://remaju.pj.gob.pe/remaju/?convocatoria=39381&remate=24524,No especificado,No especificado,2026-08-11T00:00:00,False
+REMAJU,REMATE SIMPLE - Florencia De Mora,,PEN,,Florencia De Mora,Florencia De Mora,,https://remaju.pj.gob.pe/remaju/?convocatoria=39352&remate=24520,No especificado,No especificado,2026-08-04T00:00:00,False
+REMAJU,REMATE SIMPLE - Florencia De Mora,,PEN,,Florencia De Mora,Florencia De Mora,,https://remaju.pj.gob.pe/remaju/?convocatoria=39356&remate=24518,No especificado,No especificado,2026-08-04T00:00:00,False
+REMAJU,REMATE SIMPLE - San Juan De Miraflores,,PEN,,San Juan De Miraflores,San Juan De Miraflores,,https://remaju.pj.gob.pe/remaju/?convocatoria=39355&remate=24516,No especificado,No especificado,2026-08-04T00:00:00,False
+REMAJU,REMATE SIMPLE - Lima,,PEN,,Lima,Lima,,https://remaju.pj.gob.pe/remaju/?convocatoria=39354&remate=24514,No especificado,No especificado,2026-08-04T00:00:00,False
