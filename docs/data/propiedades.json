@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-10-30T18:24:17Z",
+  "ultima_actualizacion": "2026-10-31T17:31:45Z",
   "total": 86,
   "propiedades": [
     {
@@ -540,6 +540,36 @@
       "estado_inmueble": "No especificado",
       "partida_registral": "No especificado",
       "fecha_remate": null,
+      "es_oportunidad": false
+    },
+    {
+      "fuente_origen": "REMAJU",
+      "titulo": "REMATE SIMPLE - Chao",
+      "precio_original": "",
+      "moneda": "PEN",
+      "precio_usd": null,
+      "distrito": "Chao",
+      "direccion": "Chao",
+      "medidas_m2": null,
+      "url_detalle": "https://remaju.pj.gob.pe/remaju/?convocatoria=41508&remate=25853",
+      "estado_inmueble": "No especificado",
+      "partida_registral": "No especificado",
+      "fecha_remate": "2026-11-09T00:00:00",
+      "es_oportunidad": false
+    },
+    {
+      "fuente_origen": "REMAJU",
+      "titulo": "REMATE SIMPLE - Coishco",
+      "precio_original": "",
+      "moneda": "PEN",
+      "precio_usd": null,
+      "distrito": "Coishco",
+      "direccion": "Coishco",
+      "medidas_m2": null,
+      "url_detalle": "https://remaju.pj.gob.pe/remaju/?convocatoria=41507&remate=25852",
+      "estado_inmueble": "No especificado",
+      "partida_registral": "No especificado",
+      "fecha_remate": "2026-11-09T00:00:00",
       "es_oportunidad": false
     },
     {
@@ -1260,36 +1290,6 @@
       "estado_inmueble": "No especificado",
       "partida_registral": "No especificado",
       "fecha_remate": "2026-11-07T00:00:00",
-      "es_oportunidad": false
-    },
-    {
-      "fuente_origen": "REMAJU",
-      "titulo": "REMATE SIMPLE - Trujillo",
-      "precio_original": "",
-      "moneda": "PEN",
-      "precio_usd": null,
-      "distrito": "Trujillo",
-      "direccion": "Trujillo",
-      "medidas_m2": null,
-      "url_detalle": "https://remaju.pj.gob.pe/remaju/?convocatoria=41356&remate=25803",
-      "estado_inmueble": "No especificado",
-      "partida_registral": "No especificado",
-      "fecha_remate": "2026-11-06T00:00:00",
-      "es_oportunidad": false
-    },
-    {
-      "fuente_origen": "REMAJU",
-      "titulo": "REMATE SIMPLE - La Esperanza",
-      "precio_original": "",
-      "moneda": "PEN",
-      "precio_usd": null,
-      "distrito": "La Esperanza",
-      "direccion": "La Esperanza",
-      "medidas_m2": null,
-      "url_detalle": "https://remaju.pj.gob.pe/remaju/?convocatoria=41355&remate=25802",
-      "estado_inmueble": "No especificado",
-      "partida_registral": "No especificado",
-      "fecha_remate": "2026-11-06T00:00:00",
       "es_oportunidad": false
     }
   ]
