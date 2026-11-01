@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-10-31T17:31:45Z",
+  "ultima_actualizacion": "2026-11-01T18:15:47Z",
   "total": 86,
   "propiedades": [
     {
@@ -540,6 +540,21 @@
       "estado_inmueble": "No especificado",
       "partida_registral": "No especificado",
       "fecha_remate": null,
+      "es_oportunidad": false
+    },
+    {
+      "fuente_origen": "REMAJU",
+      "titulo": "REMATE SIMPLE - Santa",
+      "precio_original": "",
+      "moneda": "PEN",
+      "precio_usd": null,
+      "distrito": "Santa",
+      "direccion": "Santa",
+      "medidas_m2": null,
+      "url_detalle": "https://remaju.pj.gob.pe/remaju/?convocatoria=41509&remate=25854",
+      "estado_inmueble": "No especificado",
+      "partida_registral": "No especificado",
+      "fecha_remate": "2026-11-10T00:00:00",
       "es_oportunidad": false
     },
     {
@@ -1272,21 +1287,6 @@
       "direccion": "Nicolas De Pierola",
       "medidas_m2": null,
       "url_detalle": "https://remaju.pj.gob.pe/remaju/?convocatoria=41358&remate=25805",
-      "estado_inmueble": "No especificado",
-      "partida_registral": "No especificado",
-      "fecha_remate": "2026-11-07T00:00:00",
-      "es_oportunidad": false
-    },
-    {
-      "fuente_origen": "REMAJU",
-      "titulo": "REMATE SIMPLE - Jose Luis Bustamante Y Rivero",
-      "precio_original": "",
-      "moneda": "PEN",
-      "precio_usd": null,
-      "distrito": "Jose Luis Bustamante Y Rivero",
-      "direccion": "Jose Luis Bustamante Y Rivero",
-      "medidas_m2": null,
-      "url_detalle": "https://remaju.pj.gob.pe/remaju/?convocatoria=41357&remate=25804",
       "estado_inmueble": "No especificado",
       "partida_registral": "No especificado",
       "fecha_remate": "2026-11-07T00:00:00",
