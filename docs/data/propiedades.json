@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-11-20T20:54:38Z",
+  "ultima_actualizacion": "2026-11-21T19:55:13Z",
   "total": 75,
   "propiedades": [
     {
@@ -375,6 +375,21 @@
       "estado_inmueble": "No especificado",
       "partida_registral": "No especificado",
       "fecha_remate": null,
+      "es_oportunidad": false
+    },
+    {
+      "fuente_origen": "REMAJU",
+      "titulo": "REMATE SIMPLE - San Juan Bautista",
+      "precio_original": "",
+      "moneda": "PEN",
+      "precio_usd": null,
+      "distrito": "San Juan Bautista",
+      "direccion": "San Juan Bautista",
+      "medidas_m2": null,
+      "url_detalle": "https://remaju.pj.gob.pe/remaju/?convocatoria=42060&remate=26180",
+      "estado_inmueble": "No especificado",
+      "partida_registral": "No especificado",
+      "fecha_remate": "2026-11-30T00:00:00",
       "es_oportunidad": false
     },
     {
@@ -1107,21 +1122,6 @@
       "direccion": "Satipo",
       "medidas_m2": null,
       "url_detalle": "https://remaju.pj.gob.pe/remaju/?convocatoria=41925&remate=26105",
-      "estado_inmueble": "No especificado",
-      "partida_registral": "No especificado",
-      "fecha_remate": "2026-11-27T00:00:00",
-      "es_oportunidad": false
-    },
-    {
-      "fuente_origen": "REMAJU",
-      "titulo": "REMATE SIMPLE - Chimbote",
-      "precio_original": "",
-      "moneda": "PEN",
-      "precio_usd": null,
-      "distrito": "Chimbote",
-      "direccion": "Chimbote",
-      "medidas_m2": null,
-      "url_detalle": "https://remaju.pj.gob.pe/remaju/?convocatoria=41924&remate=26104",
       "estado_inmueble": "No especificado",
       "partida_registral": "No especificado",
       "fecha_remate": "2026-11-27T00:00:00",
